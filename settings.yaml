@@ -1,26 +1,27 @@
 ---
-name: Changeme
+name: Macbook Pro Feet
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  3d printable replacement feet for a macbook pro
 
-  **Do not edit README.md directly as it will be overwritten..**
+  ## Installation
+
+  - Print out 4 feet at high detail in TPU
+  - Use E600 Glue or similar
+
+  Its better to use too much glue than not enough. E600 glue dries to a rubber cement like consistency. If there is too much glue you can always peal away excess
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
-  year: 2020
+  year: 2022
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  e600 glue: https://www.amazon.com/E6000-230010-Craft-Adhesive-Ounces/dp/B007TSYNG8
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Prusa: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  # Thingiverse: https://www.thingiverse.com/thing:xxxx
+  # Prusa: https://foo.com
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  # Hackaday: https://hackaday.io/foo
+  # Reddit: https://www.reddit.com/r/foo
+  Github: https://github.com/spuder/MBP-feet
+  # Blog: https://foo.com

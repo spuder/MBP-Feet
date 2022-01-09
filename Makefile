@@ -7,6 +7,7 @@
 all: clean png jpeg gif template
 clean:
 	./CAD-scripts/clean.sh
+	docker volume prune -f
 png:
 	./CAD-scripts/stl2png.sh
 jpeg:
