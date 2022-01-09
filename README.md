@@ -16,6 +16,7 @@ Its better to use too much glue than not enough. E600 glue dries to a rubber cem
 
 
 - **Thingiverse**: [https://www.thingiverse.com/thing:5192756](https://www.thingiverse.com/thing:5192756)
+- **Prusa**: [https://www.prusaprinters.org/prints/115863-macbook-pro-feet](https://www.prusaprinters.org/prints/115863-macbook-pro-feet)
 - **Github**: [https://github.com/spuder/MBP-feet](https://github.com/spuder/MBP-feet)
 
 ## :triangular_ruler: CAD files
