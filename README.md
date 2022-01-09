@@ -1,7 +1,5 @@
 
 # Macbook Pro Feet
-# Macbook Pro Feet
-
 3d printable replacement feet for a macbook pro
 
 ## Installation
@@ -17,6 +15,7 @@ Its better to use too much glue than not enough. E600 glue dries to a rubber cem
 
 
 
+- **Thingiverse**: [https://www.thingiverse.com/thing:5192756](https://www.thingiverse.com/thing:5192756)
 - **Github**: [https://github.com/spuder/MBP-feet](https://github.com/spuder/MBP-feet)
 
 ## :triangular_ruler: CAD files
