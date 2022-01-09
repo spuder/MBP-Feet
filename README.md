@@ -34,6 +34,8 @@ Its better to use too much glue than not enough. E600 glue dries to a rubber cem
 
 ## :camera: Photos
 ![](photos%2FMPB2015-Feet.png)
+![](photos%2FIMG_1189.jpeg)
+![](photos%2Fcropped)
 
 ---
 
